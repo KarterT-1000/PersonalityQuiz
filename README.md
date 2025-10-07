@@ -1,7 +1,7 @@
-性格診断アプリです。.
-ChatGPTとの共同作業で作りました！.
-完成品 => https://personality-quiz-sand.vercel.app/
-
+性格診断アプリです。<br>
+ChatGPTとの共同作業で作りました！<br>
+完成品URL => https://personality-quiz-sand.vercel.app/
+<hr>
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
