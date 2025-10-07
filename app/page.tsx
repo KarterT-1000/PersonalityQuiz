@@ -8,7 +8,7 @@ export default function Home() {
       <div className="bg-gray-800 rounded-3xl shadow-2xl p-6 sm:p-8 md:p-12 border border-gray-700">
         <div className="mb-8">
           <div>
-            <FaceSmileIcon className="text-blue-400 mx-auto w-128 h-128" />
+            <FaceSmileIcon className="text-blue-400 mx-auto w-auto h-auto" />
           </div>
           <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-blue-300 mb-4">
             4タイプ診断テスト
