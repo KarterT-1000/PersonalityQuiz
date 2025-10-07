@@ -26,7 +26,7 @@ export default function Home() {
             </div>
             <div className="flex items-center text-sm sm:text-base">
               <div className="w-2 h-2 bg-purple-500 rounded-full mr-2" />
-              <span>10問の質問</span>
+              <span>11問の質問</span>
             </div>
           </div>
           <p className="text-gray-300 text-sm sm:text-base px-2">
