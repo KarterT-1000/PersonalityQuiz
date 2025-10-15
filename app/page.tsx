@@ -4,11 +4,11 @@ import { FaceSmileIcon } from "@heroicons/react/24/solid";
 
 export default function Home() {
   return (
-    <div className="w-full max-w-2xl p-6 mx-auto text-center px-4">
-      <div className="bg-gray-800 rounded-3xl shadow-2xl p-6 sm:p-8 md:p-12 border border-gray-700">
-        <div className="mb-8">
+    <div className="w-full max-w-md p-4 mx-auto text-center">
+      <div className="bg-gray-800 rounded-3xl shadow-2xl p- sm:p-8 md:p-5 border border-gray-700">
+        <div className="mb-2">
           <div>
-            <FaceSmileIcon className="text-blue-400 mx-auto w-auto h-auto" />
+            <FaceSmileIcon className="text-blue-400 mx-auto w-auto h-auto scale-70" />
           </div>
           <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-blue-300 mb-4">
             4タイプ診断テスト
